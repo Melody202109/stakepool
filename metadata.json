@@ -1,6 +1,6 @@
 {
 	"name": "MELD4 Pool",
-	"description": "MELD4 Stakepool",
+	"description": "Delegator will be rewarded with ADA in our pool with 100% of the reward go back to delegator wallet.",
 	"ticker": "MELD4",
 	"homepage": "https://twitter.com/melodym72173951"
 }
